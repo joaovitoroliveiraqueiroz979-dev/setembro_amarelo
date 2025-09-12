@@ -26,7 +26,7 @@ main {
 
 /* Botão */
 button {
-  background: #f39c12;
+  background: #FFD700;
   color: white;
   border: none;
   padding: 15px 25px;
@@ -44,7 +44,7 @@ button:hover {
 #mensagem {
   margin-top: 15px;
   font-style: italic;
-  color: #444;
+  color: #FFA500;
   font-size: 1.2em;
 }
 
